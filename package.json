@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ezekeal/pixi-demo/issues"
   },
-  "homepage": "https://github.com/ezekeal/pixi-demo"
+  "homepage": "https://github.com/ezekeal/pixi-demo",
+  "dependencies": {
+    "pixi.js": "git://github.com/GoodBoyDigital/pixi.js"
+  },
+  "devDependencies": {}
 }
