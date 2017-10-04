@@ -1,5 +1,7 @@
 # Welcome to your new Koding workspace
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezekeal/pixi-demo.svg)](https://greenkeeper.io/)
+
 This workspace, which lives inside the 'Workspaces' folder of your
 home directory, is the place where you can store all relevant and
 related files to this project.
